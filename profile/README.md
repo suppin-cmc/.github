@@ -9,8 +9,8 @@
     <a href="#"><strong>Report</strong></a>
     <br />
     <br />
-    <a href="https://github.com/khu-compath/server/issues">서버 이슈 제보</a>
+    <a href="https://github.com/suppin-cmc/server/issues">서버 이슈 제보</a>
     ·
-    <a href="https://github.com/khu-compath/client/issues">앱 이슈 제보</a>
+    <a href="https://github.com/suppin-cmc/web/issues">웹 이슈 제보</a>
   </p>
 </div>
